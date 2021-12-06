@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @addoee
 - 🌱 从结束的地方开始
+- [学习的知识点](https://github.com/addoee/daily/blob/master/s01.md)
 - 周末两天花时间过下内容作下记录
 - [Markdown](https://github.com/addoee/daily/blob/master/Markdown/Markdown.md)
 - [Git](https://github.com/addoee/daily/blob/master/git/Git.md)
