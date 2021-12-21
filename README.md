@@ -19,7 +19,8 @@ CSS3篇
 [Javascript篇]
 
 -:notebook: Javascript Dom 编程艺术
--：你不知道的JavaScript
+
+-:notebook:你不知道的JavaScript
 - [闭包](https://github.com/addoee/daily/blob/master/Javascript/%E9%97%AD%E5%8C%85.md)
 
 
