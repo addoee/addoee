@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @addoee
 - 🌱 从结束的地方开始
 - [学习的知识点](https://github.com/addoee/daily/blob/master/s01.md)
+- [一个梯子](https://github.com/addoee/daily/blob/master/%E5%A4%96%E9%9D%A2%E7%9A%84%E9%97%A8.md)
+- 
 ***
 周末两天花时间过下内容作下记录
 - [Markdown](https://github.com/addoee/daily/blob/master/Markdown/Markdown.md)
