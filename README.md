@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @addoee
 - 🌱 从结束的地方开始
-- [学习的知识点](https://github.com/addoee/daily/blob/master/s01.md)
+- [币圈角色](https://github.com/addoee/addoee/blob/main/document/%E5%B8%81%E5%9C%88%E8%A7%92%E8%89%B2.md)
 - [一个梯子](https://github.com/addoee/daily/blob/master/%E5%A4%96%E9%9D%A2%E7%9A%84%E9%97%A8.md)
 - 
 ***
