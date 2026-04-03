@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @addoee
 - 🌱 从结束的地方开始
 - [币圈角色](https://github.com/addoee/addoee/blob/main/document/%E5%B8%81%E5%9C%88%E8%A7%92%E8%89%B2.md)
-- [一个梯子](https://github.com/addoee/daily/blob/master/%E5%A4%96%E9%9D%A2%E7%9A%84%E9%97%A8.md)
+- [世界的门](https://github.com/addoee/addoee/blob/main/document/%E9%80%9A%E5%BE%80%E4%B8%96%E7%95%8C%E7%9A%84%E9%97%A8)
 - 
 ***
 周末两天花时间过下内容作下记录
